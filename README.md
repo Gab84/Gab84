@@ -21,7 +21,7 @@
  
 <div> 
 
-  <a href="https://instagram.com/eogb84" target="_blank"><img align="center" alt="insta-log" height="35" width="35" src="https://cdn-icons.flaticon.com/svg/6422/6422200.svg?token=exp=1708004852~hmac=0103b6d8ac76ef96d8cfdff1d3c7a962" target="_blank"></a>
+  <a href="https://instagram.com/eogb84" target="_blank"><img align="center" alt="insta-log" height="35" width="50" src="https://cdn-icons.flaticon.com/svg/6422/6422200.svg?token=exp=1708004852~hmac=0103b6d8ac76ef96d8cfdff1d3c7a962" target="_blank"></a>
  	<a href = "mailto:gabrielrodrigues84394@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-rodrigues-599330241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
