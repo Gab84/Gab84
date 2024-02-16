@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gab84&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gab84&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gab84&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gab84&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -52,7 +52,7 @@
 
 ###
 
-<img align="right" height="169" src="https://cdn.discordapp.com/attachments/856567980363874325/1207857639812243466/download20240204221453.png?ex=65e12c16&is=65ceb716&hm=dc2d57fe27f12bcbb70e831749aec8b80bf77ae9ecfa0ed47b359e48939ba407&"  />
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/856567980363874325/1207857639812243466/download20240204221453.png?ex=65e12c16&is=65ceb716&hm=dc2d57fe27f12bcbb70e831749aec8b80bf77ae9ecfa0ed47b359e48939ba407&"  />
 
 ###
 
