@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   
-  <img align="right" width="212" height="250" src="https://cdn.discordapp.com/attachments/856567980363874325/1207857639812243466/download20240204221453.png?ex=65e12c16&is=65ceb716&hm=dc2d57fe27f12bcbb70e831749aec8b80bf77ae9ecfa0ed47b359e48939ba407&"  />
+  <img align="right" width="300" height="300" src="https://cdn.discordapp.com/attachments/856567980363874325/1207857639812243466/download20240204221453.png?ex=65e12c16&is=65ceb716&hm=dc2d57fe27f12bcbb70e831749aec8b80bf77ae9ecfa0ed47b359e48939ba407&"  />
 
 </div>
 
