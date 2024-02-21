@@ -10,7 +10,7 @@
 ###
 
    
-<h2 align="left"> mané fé filho....🍵.... suco de goiaba da fruta fi </h2>
+<h2 align="left"> mané fé, filho....🍵.... suco de goiaba... da fruta fi </h2>
 ###
 
 <div align="center">
