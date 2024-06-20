@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/694699267767533590/1252209556407320576/EA85822C-380C-48FC-8631-678574FCF42C.jpg?ex=66716287&is=66701107&hm=8281ca7274a09963b1001c6828e759e979d84cafa44f4c7652fb4c7561ab9b7f&" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPK7pvQpnqN2A96gXo0Y6sANHxlFWLCnKwg&s" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gab84&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
