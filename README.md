@@ -53,12 +53,12 @@ ah então viverei na eterna angústia entre a ânsia de ter e o tédio de possui
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   
-  <img align="right" width="300" height="300" src="https://cdn.discordapp.com/attachments/856567980363874325/1207857639812243466/download20240204221453.png?ex=65e12c16&is=65ceb716&hm=dc2d57fe27f12bcbb70e831749aec8b80bf77ae9ecfa0ed47b359e48939ba407&"  />
+
 
 </div>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w7t352al34e5wxoxctp7zq6pbm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 ###
 
