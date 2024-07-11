@@ -1,4 +1,4 @@
-<div align="center" width="500" height="300">
+<div align="center" width="500" height="700">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPK7pvQpnqN2A96gXo0Y6sANHxlFWLCnKwg&s"  />
 </div>
 <div align="center">
